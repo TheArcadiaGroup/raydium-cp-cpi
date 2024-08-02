@@ -7,6 +7,12 @@ skip-lint = false
 [programs.localnet]
 raydium_cp_cpi = "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C"
 
+[programs.devnet]
+raydium_cp_cpi = "CPMDWBwJDtYax9qW7AyRuVC19Cc4L4Vcy4n2BHAbHkCW"
+
+[programs.mainnet]
+raydium_cp_cpi = "CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C"
+
 [registry]
 url = "https://api.apr.dev"
 
